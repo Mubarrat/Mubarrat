@@ -2,7 +2,7 @@
 
 My name is Mubarrat Hasan. I'm a website developer, android apps developer, and dotnet/dotnet framework-based WinForms, WPFs, and UWP developer.
 
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td>
@@ -34,6 +34,12 @@ My name is Mubarrat Hasan. I'm a website developer, android apps developer, and 
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mubarrat/Mubarrat/snake/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mubarrat/Mubarrat/snake/github-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mubarrat/Mubarrat/snake/github-snake.svg">
+</picture>
+
 ## Languages
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
@@ -62,12 +68,6 @@ My name is Mubarrat Hasan. I'm a website developer, android apps developer, and 
 [![Google Mail Badge](https://img.shields.io/badge/Gmail-de4032?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubarrathasan@gmail.com)
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mubarrat/Mubarrat/snake/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mubarrat/Mubarrat/snake/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mubarrat/Mubarrat/snake/github-snake.svg">
-</picture>
 
 <!--
 **Mubarrat/Mubarrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
