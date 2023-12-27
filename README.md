@@ -6,11 +6,13 @@ My name is Mubarrat Hasan. I'm a website developer, android apps developer, and 
   <tbody>
     <tr>
       <td>
+	      <a href="https://github-readme-streak-stats.herokuapp.com/demo/" target="_blank">
 	      <picture>
 	        <source srcset="https://github-readme-streak-stats.herokuapp.com?user=Mubarrat&hide_border=true&border_radius=4.5&theme=dark&background=00000000" media="(prefers-color-scheme: dark)" />
 	        <source srcset="https://github-readme-streak-stats.herokuapp.com?user=Mubarrat&hide_border=true&border_radius=4.5&background=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
 	        <img src="https://github-readme-streak-stats.herokuapp.com?user=Mubarrat&hide_border=true&border_radius=4.5&background=00000000" />
 	      </picture>
+	      </a>
       </td>
       <td rowspan="2">
 	      <picture>
