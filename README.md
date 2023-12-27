@@ -6,7 +6,7 @@ My name is Mubarrat Hasan. I'm a website developer, android apps developer, and 
   <tbody>
     <tr>
       <td>
-	      <a href="https://github-readme-streak-stats.herokuapp.com/demo/" target="_blank">
+	      <a href="https://github-readme-streak-stats.herokuapp.com/demo/">
 	      <picture>
 	        <source srcset="https://github-readme-streak-stats.herokuapp.com?user=Mubarrat&hide_border=true&border_radius=4.5&theme=dark&background=00000000" media="(prefers-color-scheme: dark)" />
 	        <source srcset="https://github-readme-streak-stats.herokuapp.com?user=Mubarrat&hide_border=true&border_radius=4.5&background=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
@@ -15,20 +15,24 @@ My name is Mubarrat Hasan. I'm a website developer, android apps developer, and 
 	      </a>
       </td>
       <td rowspan="2">
+	      <a href="https://github.com/anuraghazra/github-readme-stats">
 	      <picture>
 	        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mubarrat&layout=pie&hide_border=true&bg_color=00000000&theme=dark" media="(prefers-color-scheme: dark)" />
 	        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mubarrat&layout=pie&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
 	        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubarrat&layout=pie&hide_border=true&bg_color=00000000" />
 	      </picture>
+	      </a>
       </td>
     </tr>
     <tr>
       <td>
+	      <a href="https://github.com/anuraghazra/github-readme-stats">
         <picture>
           <source srcset="https://github-readme-stats.vercel.app/api?username=mubarrat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00010101&theme=dark" media="(prefers-color-scheme: dark)" />
           <source srcset="https://github-readme-stats.vercel.app/api?username=mubarrat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00010101" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
           <img src="https://github-readme-stats.vercel.app/api?username=mubarrat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00010101" width="495px" />
         </picture>
+	      </a>
       </td>
     </tr>
   </tbody>
