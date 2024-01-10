@@ -28,9 +28,9 @@ My name is Mubarrat Hasan. I'm a website developer, android apps developer, and 
       <td>
 	      <a href="https://github.com/anuraghazra/github-readme-stats">
         <picture>
-          <source srcset="https://github-readme-stats.vercel.app/api?username=mubarrat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00010101&theme=dark" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-stats.vercel.app/api?username=mubarrat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00010101" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-stats.vercel.app/api?username=mubarrat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00010101" width="495px" />
+          <source srcset="https://github-readme-stats.vercel.app/api?username=mubarrat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&theme=dark" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats.vercel.app/api?username=mubarrat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-stats.vercel.app/api?username=mubarrat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" width="495px" />
         </picture>
 	      </a>
       </td>
