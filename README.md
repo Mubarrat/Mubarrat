@@ -73,6 +73,9 @@ My name is Mubarrat Hasan. I'm a website developer, android apps developer, and 
 [![Outlook Mail Badge](https://img.shields.io/badge/Outlook-157fd1?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:mubarrati@outlook.com)
 [![Google Mail Badge](https://img.shields.io/badge/Gmail-de4032?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubarrathasan@gmail.com)
 
+## My Certificates
+[![CSharp Certificate](./Certificates/CSharp.svg)](https://www.freecodecamp.org/certification/mubarrathasan/foundational-c-sharp-with-microsoft)
+
 </div>
 
 <!--
