@@ -69,9 +69,6 @@ My name is Mubarrat Hasan. I'm a website developer, android apps developer, and 
 
 <br>
 
-## Email me
-[info@mubarrat.com](mailto:info@mubarrat.com)
-
 ## My Certificates
 [![CSharp Certificate](./Certificates/CSharp.svg)](https://www.freecodecamp.org/certification/mubarrathasan/foundational-c-sharp-with-microsoft)
 
