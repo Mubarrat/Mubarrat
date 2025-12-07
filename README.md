@@ -6,11 +6,11 @@ My name is Mubarrat Hasan. I'm a website developer, android apps developer, and 
   <tbody>
     <tr>
       <td>
-	      <a href="https://github-readme-streak-stats.herokuapp.com/demo/">
+	      <a href="https://git.io/streak-stats">
 	      <picture>
-	        <source srcset="https://github-readme-streak-stats.herokuapp.com?user=Mubarrat&hide_border=true&border_radius=4.5&theme=dark&background=00000000" media="(prefers-color-scheme: dark)" />
-	        <source srcset="https://github-readme-streak-stats.herokuapp.com?user=Mubarrat&hide_border=true&border_radius=4.5&background=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-	        <img src="https://github-readme-streak-stats.herokuapp.com?user=Mubarrat&hide_border=true&border_radius=4.5&background=00000000" />
+	        <source srcset="https://github-readme-streak-stats.vercel.mubarrat.com?user=Mubarrat&hide_border=true&border_radius=4.5&theme=dark&background=00000000" media="(prefers-color-scheme: dark)" />
+	        <source srcset="https://github-readme-streak-stats.vercel.mubarrat.com?user=Mubarrat&hide_border=true&border_radius=4.5&background=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+	        <img src="https://github-readme-streak-stats.vercel.mubarrat.com?user=Mubarrat&hide_border=true&border_radius=4.5&background=00000000" />
 	      </picture>
 	      </a>
       </td>
@@ -26,13 +26,13 @@ My name is Mubarrat Hasan. I'm a website developer, android apps developer, and 
     </tr>
     <tr>
       <td>
-	      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <picture>
-          <source srcset="https://github-readme-stats.vercel.mubarrat.com/api?username=mubarrat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&theme=dark" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-stats.vercel.mubarrat.com/api?username=mubarrat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-stats.vercel.mubarrat.com/api?username=mubarrat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" width="495px" />
-        </picture>
-	      </a>
+	    <a href="https://github.com/anuraghazra/github-readme-stats">
+		<picture>
+		  <source srcset="https://github-readme-stats.vercel.mubarrat.com/api?username=mubarrat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&theme=dark" media="(prefers-color-scheme: dark)" />
+		  <source srcset="https://github-readme-stats.vercel.mubarrat.com/api?username=mubarrat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+		  <img src="https://github-readme-stats.vercel.mubarrat.com/api?username=mubarrat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" width="495px" />
+		</picture>
+	    </a>
       </td>
     </tr>
   </tbody>
